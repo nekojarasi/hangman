@@ -1,1 +1,1 @@
-# hangman
+# dice_game
